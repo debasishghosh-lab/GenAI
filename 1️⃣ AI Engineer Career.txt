@@ -1,0 +1,107 @@
+1️⃣ AI Engineer Career & Job Preparation
+
+How to prepare your profile for AI Engineer roles
+How to position yourself as an AI Agent Engineer
+How to prepare for AI Agent Engineer interviews
+What companies look for in AI Agent Engineers
+Lessons learned from 20+ AI Engineer interviews
+
+2️⃣ Python for AI Agent Engineers
+
+Build the Python foundation required for modern AI engineering:
+
+Variables & Mutability
+Functions
+Closures
+Scope
+OOP
+LEGB
+Functions & Advanced Python concepts
+Decorators
+Wrappers
+Iterators
+Generators
+Async/Await
+Type Hints
+Pydantic
+Structured Output
+FastAPI
+Flask vs FastAPI
+Streaming APIs
+Building AI Agents in Python
+
+3️⃣ LLM Foundations
+
+Understand what actually happens inside modern AI systems:
+
+How LLMs work
+Tokens
+Context
+Transformers
+LLM architecture
+Why LLMs are the foundation of AI Agents
+How LLMs interact with external tools and systems
+
+4️⃣ Prompt Engineering
+
+Learn the prompting concepts every AI Agent Engineer should understand:
+
+Prompt Engineering fundamentals
+System prompts
+User prompts
+Context
+Few-shot prompting
+Structured prompting
+Prompt optimization
+Practical prompt engineering for AI Agents
+
+5️⃣ RAG & Retrieval Systems
+
+Understand how AI applications connect LLMs with private and external knowledge:
+
+RAG Architecture
+Embeddings
+Vector Databases
+Vector Search
+Semantic Search
+Retrieval
+Context Injection
+Building scalable RAG systems
+Where RAG fits inside AI Agents
+
+6️⃣ AI Agent Architecture
+
+Move from simple LLM applications to autonomous AI systems:
+
+What is an AI Agent?
+AI Agent architecture
+Agent loops
+Planning
+Reasoning
+Memory
+Tools
+Observability
+Evaluations
+Agent workflows
+Multi-step execution
+
+7️⃣ Tool Calling
+
+Understand one of the most important building blocks of modern AI Agents:
+
+What is Tool Calling?
+How LLMs decide when to use tools
+Function Calling
+Tool schemas
+Tool execution
+Tool results
+Agent + Tool Calling architecture
+Building reliable tools for AI Agents
+
+8️⃣ Complete AI Agent Engineering
+
+Bring everything together:
+
+*LLM + Prompt + Memory + RAG + Tools + Tool Calling + Agent Loop + Evals + Tracing*
+
+You will understand how these components work together to build production-ready AI Agent systems.

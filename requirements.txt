@@ -3,3 +3,4 @@ langchain-openrouter
 dotenv
 langchain-google-genai
 streamlit
+langchain-groq
