@@ -4,3 +4,4 @@ dotenv
 langchain-google-genai
 streamlit
 langchain-groq
+langchain-nimble 
