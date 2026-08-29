@@ -7,3 +7,6 @@ langchain-groq
 langchain-nimble 
 langchain_community
 langgraph
+pypdf
+langchain-text-splitters
+langchain-chroma
